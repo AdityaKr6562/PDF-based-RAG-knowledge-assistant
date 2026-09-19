@@ -92,11 +92,9 @@ Not deployed. The application currently runs locally using Streamlit and Ollama.
 
 AI tools were used during the development process for:
 
-- Understanding RAG architecture and implementation concepts
-- Debugging Python and environment issues
 - Generating and refining code
 - Improving documentation and README content
-- Troubleshooting FAISS, embeddings, Ollama, and Streamlit integration
+- Troubleshooting FAISS, embeddings and Streamlit integration
 
 The final application was implemented, tested, and run locally by the developer.
 
