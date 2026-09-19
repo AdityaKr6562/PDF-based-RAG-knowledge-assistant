@@ -76,3 +76,54 @@ The application retrieves relevant document sections using semantic search and g
                          │
                          ▼
                   Source Citations
+
+---
+
+
+### 🔗 Project Links
+
+**GitHub Repository:**  
+https://github.com/AdityaKr6562/PDF-based-RAG-knowledge-assistant
+
+**Live Demo:**  
+Not deployed. The application currently runs locally using Streamlit and Ollama.
+
+### 🧠 AI Tools Disclosure
+
+AI tools were used during the development process for:
+
+- Understanding RAG architecture and implementation concepts
+- Debugging Python and environment issues
+- Generating and refining code
+- Improving documentation and README content
+- Troubleshooting FAISS, embeddings, Ollama, and Streamlit integration
+
+The final application was implemented, tested, and run locally by the developer.
+
+### 🛠️ Development Tools
+
+- Python 3.12
+- VS Code
+- Git / GitHub
+- Streamlit
+- PyMuPDF
+- Sentence Transformers
+- FAISS
+- Ollama
+- Qwen3 8B
+
+### 🧪 Verification
+
+The application was tested for:
+
+- PDF text extraction
+- Document chunking
+- Embedding generation
+- FAISS indexing
+- Semantic retrieval
+- RAG answer generation
+- Source/page display
+- Streamlit interface
+- Conversation history
+
+---
