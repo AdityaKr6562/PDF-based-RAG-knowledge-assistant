@@ -80,7 +80,7 @@ The application retrieves relevant document sections using semantic search and g
 ---
 
 
-### 🔗 Project Links
+# 🔗 Project Links
 
 **GitHub Repository:**  
 https://github.com/AdityaKr6562/PDF-based-RAG-knowledge-assistant
