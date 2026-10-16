@@ -78,7 +78,7 @@ The application retrieves relevant document sections using semantic search and g
                   Source Citations
 
 ---
-
+```
 
 # 🔗 Project Links
 
